@@ -12,7 +12,7 @@ article {
 }
 
 .header_pattern {
-    background: url("/img/pattern.png");
+    background: url("../img/pattern.png");
     text-align: inherit;
     margin: -9px auto auto -9px;
     background-size: contain
